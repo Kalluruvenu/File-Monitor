@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="progressDialog">#dce4e4</color>
+    <color name="primary">#E43F3F</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--Button Color-->
+    <color name="buttonColor">#FF5A2D</color>
+
+    <color name="btnNormalStateColor">#FF5A2D</color>
+    <color name="btnPressedStateColor">#ed3a09</color>
+    <color name="btnDisabledStateColor">#ed9d87</color>
+
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_800">#9E9E9E</color>
+
+</resources>

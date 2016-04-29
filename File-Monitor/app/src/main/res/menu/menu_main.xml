@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="filemonitor.sample.come.filemontior.MainActivity">
+    <item
+        android:id="@+id/action_start_scan"
+        android:orderInCategory="100"
+        android:title="@string/action_start_scan"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_stop_scan"
+        android:orderInCategory="100"
+        android:title="@string/action_stop_scan"
+        app:showAsAction="never" />
+</menu>

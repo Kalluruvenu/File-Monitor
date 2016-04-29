@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileMontior</string>
+    <string name="action_start_scan">Start</string>
+    <string name="action_stop_scan">Stop</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_home_activtity">HomeActivtity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="strNoFiles">NO FILES</string>
+    <string name="strClickScan">Click Start Scan</string>
+</resources>
